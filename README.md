@@ -1,8 +1,8 @@
 
 
-<h4 align="center"> 
+<h1 align="center"> 
 	Sistema Acessibilidade Não Verbal 🚀
-</h4>
+</h1>
 <p align="center">
 
 ## 💻 Projeto
@@ -63,7 +63,7 @@ $ git checkout master
 Este projeto esta sobe a licença MIT. Veja a [LICENÇA][license] para saber mais.
 
 
-Feito com ❤️ por Felipe Santiago,Gabriel Bandeira,Ykaro Kayk,Moises Alves,Guilherme Neves 👋🏽 [Entre em contato!](https://www.linkedin.com/in/issafe/)
+Feito com ❤️ por Felipe Santiago,Gabriel Bandeira,Ikaro Kayk,Moises Alves,Guilherme Neves 👋🏽 [Entre em contato!](https://www.linkedin.com/in/issafe/)
 
 [androidstudio]: https://developer.android.com/studio
 [android]: https://developer.android.com/studio
