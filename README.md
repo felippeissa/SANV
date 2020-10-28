@@ -11,17 +11,6 @@
 
 O projeto conta com aplicação Mobile para a captura das imagens e tradução das mesmas em palavras.
 
-## 🎨 Layout
-
-### Mobile
-
-<h4 align="center">
-  <img alt="ExampleMobile" title="ExampleMobile" src=".github/app-full.gif" width="194px" />
-  <img alt="ExampleMobile" title="ExampleMobile" src=".github/app-home-full.jpg" width="200px" />
-  <img alt="ExampleMobile" title="ExampleMobile" src=".github/app-point.jpg" width="200px" />
-  <img alt="ExampleMobile" title="ExampleMobile" src=".github/app-detail.jpg" width="200px" />
-</h4>
-
 ## :hammer: Tecnologias
 
 Este projeto foi desenvolvido com as seguintes Ferramentas:
